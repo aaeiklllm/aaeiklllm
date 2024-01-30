@@ -6,5 +6,5 @@ I'm a versatile coder and digital enthusiast exploring the frontiers of web deve
 
 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/mikaellalayug/)
-- Email: mika.layug@gmail.com
+- mika.layug@gmail.com
 
